@@ -1,0 +1,25 @@
+{
+  "name": "extdn/extdn-interoperability-testing",
+  "version": "0.0.1",
+  "license": "See individual extensions",
+  "description": "ExtDN Interoperability Testing",
+  "keywords": [
+    "extdn",
+    "magento"
+  ],
+  "authors": [
+    {
+      "name": "Jisse Reitsma (Yireo)",
+      "email": "jisse@yireo.com"
+    }
+  ],
+  "require": {
+    "fooman/emailattachments-m2": "^3.1",
+    "fooman/printorderpdf-m2": "^3.1",
+    "fooman/ordermanager-m2": "^8.2",
+    "yireo/magento2-webp2": "*",
+    "magento/framework": "^101.0|^102.0",
+    "php": ">=7.2.0"
+  }
+}
+
